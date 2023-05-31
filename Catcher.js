@@ -1,13 +1,3 @@
-/*!
- * Poketwo Autocatcher
- * https://github.com/Team-BANERUS/poketwo-Autocatcher
- * @Team_Banerus
- *
- * Professional, Clean, Lightweight Poketwo Autocatcher coded with excellence!
- *
- * NOTE: This file is not allocated & publically distributed
- */
-
 const {
     poketwo_builder,
     //...//
